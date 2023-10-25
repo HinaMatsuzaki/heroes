@@ -1,0 +1,411 @@
+[
+    {
+    "name": "Mystic Phoenix",
+    "gender": "Female",
+    "eyecolor": "Green",
+    "race": "Human",
+    "haircolor": "Red",
+    "height": "170.0",
+    "publisher": "Star Trek",
+    "skincolor": "Fair",
+    "alignment": "Good",
+    "weight": "62.0",
+    "powers": [
+        "FireControl",
+        "Flight",
+        "Regeneration",
+        "HeatGeneration",
+        "EnergyManipulation",
+        "PowerCosmic",
+        "DimensionalTravel",
+        "EnergyBlasts",
+        "SuperSpeed",
+        "ElementalTransmogrification",
+        "Invisibility",
+        "Telekinesis",
+        "SonicScream"
+    ]
+    },
+    {
+    "name": "Solar Flare",
+    "gender": "Male",
+    "eyecolor": "Gold",
+    "race": "Alien",
+    "haircolor": "None",
+    "height": "185.0",
+    "publisher": "IDW Publishing",
+    "skincolor": "Golden",
+    "alignment": "Good",
+    "weight": "200.0",
+    "powers": [
+        "EnergyManipulation",
+        "Flight",
+        "Invulnerability",
+        "ElementalTransmogrification",
+        "TimeManipulation",
+        "Telepathy",
+        "Magnetism",
+        "Teleportation"
+    ]
+    },
+    {
+    "name": "Nebula Knight",
+    "gender": "Male",
+    "eyecolor": "Blue",
+    "race": "Human",
+    "haircolor": "Silver",
+    "height": "188.0",
+    "publisher": "J. R. R. Tolkien",
+    "skincolor": "Fair",
+    "alignment": "Good",
+    "weight": "85.0",
+    "powers": [
+        "EnergyManipulation",
+        "DimensionalTravel",
+        "SuperStrength",
+        "Flight",
+        "Invisibility",
+        "TimeTravel",
+        "Regeneration",
+        "Teleportation",
+        "Camouflage",
+        "Telekinesis"
+    ]
+    },
+    {
+    "name": "Shadow Stalker",
+    "gender": "Female",
+    "eyecolor": "Black",
+    "race": "Mutant",
+    "haircolor": "Dark Purple",
+    "height": "175.0",
+    "publisher": "Rebellion",
+    "skincolor": "Pale",
+    "alignment": "Antihero",
+    "weight": "60.0",
+    "powers": [
+        "Invisibility",
+        "Teleportation",
+        "Stealth",
+        "Phasing"
+    ]
+    },
+    {
+    "name": "Aqua Guardian",
+    "gender": "Male",
+    "eyecolor": "Blue",
+    "race": "Atlantean",
+    "haircolor": "Blond",
+    "height": "190.0",
+    "publisher": "Shueisha",
+    "skincolor": "Blue",
+    "alignment": "Good",
+    "weight": "210.0",
+    "powers": [
+        "Underwaterbreathing",
+        "SuperStrength",
+        "ColdResistance",
+        "WaterControl",
+        "Telepathy"
+    ]
+    },
+    {
+    "name": "Quantum Weaver",
+    "gender": "Female",
+    "eyecolor": "Violet",
+    "race": "Human",
+    "haircolor": "White",
+    "height": "165.0",
+    "publisher": "Sony Pictures",
+    "skincolor": "Pale",
+    "alignment": "Good",
+    "weight": "58.0",
+    "powers": [
+        "DimensionalTravel",
+        "Teleportation",
+        "MolecularManipulation",
+        "EnergyManipulation",
+        "Telepathy",
+        "Regeneration"
+    ]
+    },
+    {
+    "name": "Blazing Inferno",
+    "gender": "Male",
+    "eyecolor": "Red",
+    "race": "Mutant",
+    "haircolor": "Flaming",
+    "height": "180.0",
+    "publisher": "J. K. Rowling",
+    "skincolor": "Fiery",
+    "alignment": "Antihero",
+    "weight": "175.0",
+    "powers": [
+        "FireControl",
+        "HeatGeneration",
+        "SuperStrength",
+        "Flight",
+        "Invisibility"
+    ]
+    },
+    {
+    "name": "Nova Seeker",
+    "gender": "Female",
+    "eyecolor": "Silver",
+    "race": "Human",
+    "haircolor": "Black",
+    "height": "170.0",
+    "publisher": "Team Epic TV",
+    "skincolor": "Fair",
+    "alignment": "Good",
+    "weight": "65.0",
+    "powers": [
+        "Flight",
+        "EnergyBlasts",
+        "Telekinesis",
+        "TimeManipulation",
+        "Telepathy",
+        "PowerCosmic",
+        "DimensionalTravel"
+    ]
+    },
+    {
+    "name": "Electron Bolt",
+    "gender": "Male",
+    "eyecolor": "Blue",
+    "race": "Cyborg",
+    "haircolor": "None",
+    "height": "190.0",
+    "publisher": "Microsoft",
+    "skincolor": "Silver",
+    "alignment": "Good",
+    "weight": "210.0",
+    "powers": [
+        "EnergyManipulation",
+        "LightControl",
+        "ElectricityControl",
+        "Telekinesis",
+        "Telepathy"
+    ]
+    },
+    {
+    "name": "Astral Oracle",
+    "gender": "Female",
+    "eyecolor": "Purple",
+    "race": "Human",
+    "haircolor": "Silver",
+    "height": "160.0",
+    "publisher": "George Lucas",
+    "skincolor": "Fair",
+    "alignment": "Good",
+    "weight": "60.0",
+    "powers": [
+        "AstralTravel",
+        "Precognition",
+        "Telekinesis",
+        "Illusions",
+        "Telepathy"
+    ]
+    },
+    {
+    "name": "Eco Guardian",
+    "gender": "Male",
+    "eyecolor": "Green",
+    "race": "Elemental",
+    "haircolor": "Leafy",
+    "height": "175.0",
+    "publisher": "Marvel Comics",
+    "skincolor": "Bark-like",
+    "alignment": "Good",
+    "weight": "80.0",
+    "powers": [
+        "PlantControl",
+        "ElementalTransmogrification",
+        "NatureManipulation",
+        "RadiationImmunity",
+        "WaterControl",
+        "Vision-Infrared"
+    ]
+    },
+    {
+    "name": "The Wraith",
+    "gender": "Male",
+    "eyecolor": "White",
+    "race": "Undead",
+    "haircolor": "None",
+    "height": "185.0",
+    "publisher": "Image Comics",
+    "skincolor": "Decayed",
+    "alignment": "Antihero",
+    "weight": "170.0",
+    "powers": [
+        "Necromancy",
+        "Invisibility",
+        "DarkforceManipulation"
+    ]
+    },
+    {
+    "name": "Psyche Master",
+    "gender": "Female",
+    "eyecolor": "Blue",
+    "race": "Human",
+    "haircolor": "Brown",
+    "height": "168.0",
+    "publisher": "DC Comics",
+    "skincolor": "Fair",
+    "alignment": "Hero",
+    "weight": "55.0",
+    "powers": [
+        "Telekinesis",
+        "Telepathy",
+        "MindControl"
+    ]
+    },
+    {
+    "name": "Savage Fury",
+    "gender": "Male",
+    "eyecolor": "Yellow",
+    "race": "Human",
+    "haircolor": "Black",
+    "height": "190.0",
+    "publisher": "Wildstorm",
+    "skincolor": "Fair",
+    "alignment": "Antivillain",
+    "weight": "95.0",
+    "powers": [
+        "SuperStrength",
+        "Regeneration",
+        "Marksmanship",
+        "Elasticity"
+    ]
+    },
+    {
+    "name": "Vortex Master",
+    "gender": "Male",
+    "eyecolor": "Gray",
+    "race": "Human",
+    "haircolor": "Black",
+    "height": "175.0",
+    "publisher": "Universal Studios",
+    "skincolor": "Fair",
+    "alignment": "Hero",
+    "weight": "75.0",
+    "powers": [
+        "EnergyManipulation",
+        "Flight",
+        "TimeTravel",
+        "Telekinesis",
+        "SonicScream"
+    ]
+    },
+    {
+    "name": "Iron Sentinel",
+    "gender": "Male",
+    "eyecolor": "Red",
+    "race": "Android",
+    "haircolor": "None",
+    "height": "200.0",
+    "publisher": "Dark Horse Comics",
+    "skincolor": "Silver",
+    "alignment": "Antivillain",
+    "weight": "400.0",
+    "powers": [
+        "Durability",
+        "SuperStrength",
+        "EnergyManipulation",
+        "PowerSuit",
+        "WeaponsMaster",
+        "Flight",
+        "Stealth",
+        "ElementalTransmogrification"
+    ]
+    },
+    {
+    "name": "Quantum Ghost",
+    "gender": "Female",
+    "eyecolor": "White",
+    "race": "Human",
+    "haircolor": "Silver",
+    "height": "165.0",
+    "publisher": "Hanna-Barbera",
+    "skincolor": "Pale",
+    "alignment": "Hero",
+    "weight": "55.0",
+    "powers": [
+        "Invisibility",
+        "Teleportation",
+        "Phasing",
+        "TimeManipulation",
+        "ElementalTransmogrification"
+    ]
+    },
+    {
+    "name": "Celestial Knight",
+    "gender": "Male",
+    "eyecolor": "Blue",
+    "race": "Human",
+    "haircolor": "Blond",
+    "height": "185.0",
+    "publisher": "ABC Studios",
+    "skincolor": "Fair",
+    "alignment": "Hero",
+    "weight": "90.0",
+    "powers": [
+        "Flight",
+        "SuperStrength",
+        "EnergyManipulation",
+        "Telepathy",
+        "PowerCosmic",
+        "TimeManipulation",
+        "RealityWarping"
+    ]
+    },
+    {
+    "name": "Lunar Guardian",
+    "gender": "Female",
+    "eyecolor": "Silver",
+    "race": "Human",
+    "haircolor": "White",
+    "height": "168.0",
+    "publisher": "Marvel Comics",
+    "skincolor": "Fair",
+    "alignment": "Good",
+    "weight": "60.0",
+    "powers": [
+        "SuperStrength",
+        "Flight",
+        "Regeneration",
+        "HeatGeneration",
+        "EnergyManipulation",
+        "PowerCosmic",
+        "ElementalTransmogrification",
+        "Invisibility",
+        "Telepathy",
+        "MolecularManipulation",
+        "TimeManipulation",
+        "Teleportation",
+        "Magic"
+    ]
+    },
+    {
+    "name": "Phantom Serpent",
+    "gender": "Female",
+    "eyecolor": "Yellow",
+    "race": "Human",
+    "haircolor": "Black",
+    "height": "170.0",
+    "publisher": "SyFy",
+    "skincolor": "Fair",
+    "alignment": "Hero",
+    "weight": "65.0",
+    "powers": [
+        "Invisibility",
+        "Telekinesis",
+        "SonicScream",
+        "DarkforceManipulation",
+        "RealityWarping",
+        "Telepathy",
+        "TimeManipulation"
+    ]
+    }
+]
